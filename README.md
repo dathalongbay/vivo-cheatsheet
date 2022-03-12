@@ -1,5 +1,13 @@
 # vivo-cheatsheet
 ```
+https://html-css-js.com/css/generator/text-shadow/
+https://htmlcheatsheet.com/
+- html https://www.frontendcheatsheets.com/html
+- css https://www.frontendcheatsheets.com/css
+- js https://www.frontendcheatsheets.com/javascript
+https://htmlcheatsheet.com/js/
+
+- bootstrap : https://www.frontendcheatsheets.com/bootstrap
 npm cheatsheet
 - https://devhints.io/npm
 yarn cheatsheet 
@@ -20,3 +28,4 @@ https://devhints.io/markdown
 https://devhints.io/mysql
 - 
 ```
+
